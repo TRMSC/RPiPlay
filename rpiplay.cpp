@@ -209,6 +209,7 @@ void print_info(char *name) {
     }
     printf("-d                    Enable debug logging\n");
     printf("-v/-h                 Displays this help and version information\n");
+    printf("Press CTRL+C while running RPiTV to exit.\n");
 }
 
 int main(int argc, char *argv[]) {
