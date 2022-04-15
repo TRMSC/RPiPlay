@@ -51,7 +51,7 @@ sudo apt-get install libssl-dev
 mkdir build
 cd build
 cmake ..
-make -j
+make -j4
 ```
 
 GCC 5 or later is required.
