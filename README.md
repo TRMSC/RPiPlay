@@ -116,6 +116,8 @@ At the moment, these options are implemented:
 
 **-v/-h**: Displays short help and version information.
 
+Press CTRL+C while running RPiTV to exit.
+
 
 # Disclaimer
 
